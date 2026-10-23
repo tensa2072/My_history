@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cyberpunk Edgerunners</string>
+
+    <string name="button_morning">Луна</string>
+    <string name="button_day">Дэвид</string>
+    <string name="button_evening">Край</string>
+    <string name="button_night">Финал</string>
+</resources>
